@@ -76,12 +76,27 @@ To view and interact with the complete dashboard:
 4.  **Explore:** Use the navigation buttons and slicers to explore transaction trends, failure reasons, and service performance.
 
 ### 🖼️ Dashboard Previews
+**Interface Page:**
+![image alt](https://github.com/poojithkumar29/Phonepe-Dashboard/blob/main/Interface.png)
 
-| Home Page Overview | Money Transfer Analysis | Bills & Recharge Performance | Insurance Analysis |
-| :---: | :---: | :---: | :---: |
-| ![`Home page.png`](Home%20page.png) | ![`Money Transfer.png`](Money%20Transfer.png) | ![`Bills&Recharge.png`](Bills%20&%20Recharge.png) | ![`Insurance.png`](Insurance.png) |
+ **Home Page Overview:**
+ 
+ ![image alt](https://github.com/poojithkumar29/Phonepe-Dashboard/blob/main/Home%20page.png)
+ **Insurance Analysis:**
 
----
+  ![image alt](https://github.com/poojithkumar29/Phonepe-Dashboard/blob/main/Insurance.png)
+ 
+ **Loan Analysis**
+
+  ![image alt](https://github.com/poojithkumar29/Phonepe-Dashboard/blob/main/Loan.png)
+ **Money Transfer Analysis:** 
+
+  ![image alt](https://github.com/poojithkumar29/Phonepe-Dashboard/blob/main/Money%20Transfer.png)
+**Bills & Recharge Analysis:**
+
+ ![image alt](https://github.com/poojithkumar29/Phonepe-Dashboard/blob/main/Bills%26Recharge.png)
+
+
 
 ### 📧 Contact
 
